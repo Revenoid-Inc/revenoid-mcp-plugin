@@ -1,0 +1,11 @@
+{
+  "name": "revenoid-mcp",
+  "description": "Revenoid for Claude Code — discover accounts, find & enrich prospects, query your CRM (Salesforce/HubSpot), search call transcripts, and generate outreach in your voice, straight from the editor.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Revenoid",
+    "url": "https://revenoid.com"
+  },
+  "homepage": "https://revenoid.com",
+  "keywords": ["mcp", "revenoid", "sales", "crm", "prospecting", "outreach"]
+}

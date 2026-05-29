@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "revenoid": {
+      "type": "http",
+      "url": "https://core.revenoid.com/api/v2/mcp"
+    }
+  }
+}
