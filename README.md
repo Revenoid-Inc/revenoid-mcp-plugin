@@ -9,6 +9,10 @@ editor.
 This repo is both the **plugin** and its **marketplace** (single-plugin
 marketplace, plugin at the repo root).
 
+> **Using the Claude desktop app?** See [`SETUP.md`](./SETUP.md) for the
+> point-and-click "Add custom connector" walkthrough (Customize →
+> Connectors → +). The plugin/CLI instructions below are for Claude Code.
+
 ## Install
 
 ```bash
