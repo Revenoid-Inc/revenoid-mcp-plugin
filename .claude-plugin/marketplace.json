@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "revenoid-mcp",
-      "source": ".",
+      "source": "./",
       "description": "Revenoid MCP — accounts, prospects, enrichment, CRM, call transcripts, and outreach generation, authenticated via OAuth 2.1 (or a Revenoid API key)."
     }
   ]
